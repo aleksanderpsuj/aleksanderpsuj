@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My Name Is Aleksander</h1>
 <h3 align="center">A passionate backend developer from Poland (Katowice)</h3>
 
-- 🔭 I’m currently working on **Pioneer DDJ-SB3 Mappings**
-
 - 🎛️ DJ Hardware & Software **Enthusiast**
 
 <p align="left">
